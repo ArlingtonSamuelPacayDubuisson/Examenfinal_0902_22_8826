@@ -1,0 +1,8 @@
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\bin\Debug\Examenfinal_0902 22 8826.exe.config
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\bin\Debug\Examenfinal_0902 22 8826.exe
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\bin\Debug\Examenfinal_0902 22 8826.pdb
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\obj\Debug\Examenfinal_0902 22 8826.csproj.AssemblyReference.cache
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\obj\Debug\Examenfinal_0902 22 8826.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\obj\Debug\Examenfinal_0902 22 8826.csproj.CoreCompileInputs.cache
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\obj\Debug\Examenfinal_0902 22 8826.exe
+C:\Users\Arlington\Desktop\Examenfinal_0902 22 8826\obj\Debug\Examenfinal_0902 22 8826.pdb
